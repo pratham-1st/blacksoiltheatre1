@@ -10,13 +10,13 @@ function About() {
               </p>
          </div>
          <div className='h-full w-1/2 flex justify-center items-center'> 
-               <img className='h-28 w-36 md:h-96 md:w-auto pr-px-[20px]' src="src\assets\images\ab1.jpg" alt="" />
+               <img className='h-28 w-36 md:h-96 md:w-auto pr-px-[20px]' src="https://i.ibb.co/sVMdKJs/ab1.jpg" alt="" />
          </div>
     </div>
 
     <div className='h-[30vh] md:h-[70vh] w-full flex'>
     <div className='h-full w-1/2 flex justify-center items-center'> 
-      <img className='h-28 w-36 md:h-96 md:w-auto ' src="src\assets\images\ab2.jpg" alt="" />
+      <img className='h-28 w-36 md:h-96 md:w-auto ' src="https://i.ibb.co/dfM5NBM/ab2.jpg" alt="" />
     </div>
     <div className='h-full w-1/2 '>
      <p className='text-[2.2vw] md:text-[2.1vw] text-white flex justify-center items-center p-5 md:p-10 mt-5 md:mt-0 font-semibold'>
