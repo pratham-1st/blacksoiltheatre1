@@ -19,7 +19,6 @@ function App() {
         <About />
         <AboutDown />
         <Cards />
-        <Webinar />
         <WebinarDes />
         <Markquee />
         <Social />
