@@ -19,13 +19,13 @@ function Cards() {
 
       {/* Card 2 */}
         <div className='h-full w-4/12 flex flex-col justify-center items-center pr-7 md:pr-3'>
-        <h1 className='text-[2vh] md:text-[2vw] font-bold text-white'>
+        <h1 className='text-[2vh] md:text-[2vw] text-center font-bold text-white'>
               Watch us on YouTube!
         </h1>           
         <div className='flex gap-2 md:gap-5 mt-3 md:mt-5 items-center flex-col md:flex-row'>
           <img src="https://i.ibb.co/KF4Gr5v/logo.png" alt="" className='h-16 w-16 md:h-28 md:w-28'/>
           <a href="https://www.youtube.com/@BlackSoilTheatre">
-          <button className='text-[3vh] md:text-[1.7vw] h-7 md:h-12 rounded-full font-bold text-white bg-red-500 px-2 pb-py-2 border-2'>
+          <button className='text-[2vh] md:text-[1.7vw] h-7 md:h-12 rounded-full font-bold text-white bg-red-500 px-2 pb-py-2 border-2'>
             Subscribe
           </button></a> 
         </div>
