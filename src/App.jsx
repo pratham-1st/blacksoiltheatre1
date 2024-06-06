@@ -16,11 +16,11 @@ function App() {
     <div className='h-full w-full bg-zinc-900'>
         <Navbar />
         <Carousel />
+        <WebinarDes />
+        <Markquee />
         <About />
         <AboutDown />
         <Cards />
-        <WebinarDes />
-        <Markquee />
         <Social />
         <Copyright />
     </div>
