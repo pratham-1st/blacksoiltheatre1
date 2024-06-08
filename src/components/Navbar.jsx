@@ -10,9 +10,9 @@ function Navbar() {
 
       <div className="h-full w-2/3 flex items-center justify-center">
         <div className="flex gap-5 md:gap-8">
-          <h1 className="text-white text-[1.4vh] md:text-[1.3vw] font-bold"><a href="#">GALLERY</a></h1>
-          <h1 className="text-white text-[1.4vh] md:text-[1.3vw] font-bold"><a href="#">MEMBERS</a></h1>
-          <h1 className="text-white text-[1.4vh] md:text-[1.3vw] font-bold"><a href="#">ABOUT US</a></h1>
+          <h1 className="text-white text-[1.4vh] md:text-[1.5vw] font-bold"><a href="team.html">GALLERY</a></h1>
+          <h1 className="text-white text-[1.4vh] md:text-[1.5vw] font-bold"><a href="#">MEMBERS</a></h1>
+          <h1 className="text-white text-[1.4vh] md:text-[1.5vw] font-bold"><a href="#">ABOUT US</a></h1>
         </div>
       </div>
             
