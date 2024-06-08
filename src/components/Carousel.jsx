@@ -2,7 +2,7 @@ import React from 'react';
 
 const Carousel = () => {
     return (
-
+<div>
 <div id="default-carousel" className="relative w-full p-10" data-carousel="slide">
     
     <div className="relative h-48 overflow-hidden rounded-lg md:h-[80vh]">
@@ -40,7 +40,7 @@ const Carousel = () => {
     </div>
 
     </div>
-
+</div>
     );
 };
 
