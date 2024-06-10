@@ -26,28 +26,6 @@ function Gallery() {
               <img className="h-auto max-w-full rounded-lg" src="https://i.postimg.cc/90KNJ4DN/Whats-App-Image-2024-06-05-at-23-56-02-6149a49b.jpg" alt=""/>
           </div>
       </div>
-      <div className="grid gap-4">
-          <div>
-              <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg" alt=""/>
-          </div>
-          <div>
-              <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg" alt=""/>
-          </div>
-          <div>
-              <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg" alt=""/>
-          </div>
-      </div>
-      <div className="grid gap-4">
-          <div>
-              <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-9.jpg" alt=""/>
-          </div>
-          <div>
-              <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-10.jpg" alt=""/>
-          </div>
-          <div>
-              <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-11.jpg" alt=""/>
-          </div>
-      </div>
   </div>
 
   )
