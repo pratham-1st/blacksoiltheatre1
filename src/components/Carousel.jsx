@@ -5,7 +5,7 @@ return (
 <div>
 <div id="default-carousel" className="relative w-full p-10" data-carousel="slide">
     
-    <div className="relative h-48 overflow-hidden rounded-lg md:h-[80vh]">
+    <div className="relative h-32 overflow-hidden rounded-lg md:h-[80vh]">
     
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
             <img src="https://i.postimg.cc/6QtbjxQw/Whats-App-Image-2024-06-05-at-23-54-31-96b4c236.jpg" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 object-cover" alt="..."/>        
